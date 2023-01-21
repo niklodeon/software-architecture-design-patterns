@@ -1,2 +1,2 @@
-# software-architecture-patterns
-Code examples to demonstrate software architecture patterns
+# software-architecture-design-patterns
+Code examples to demonstrate software architecture design patterns
